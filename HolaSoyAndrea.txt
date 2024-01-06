@@ -1,3 +1,7 @@
 ¿Que tal?
+<<<<<<< HEAD
 
 ¿Estas ahí?
+=======
+¿Hablamos?
+>>>>>>> 40980e6d5ba49740762fc5504ad7836595d92202
